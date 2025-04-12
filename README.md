@@ -36,13 +36,13 @@ PharmacyManager/
                   Cette interface permet aux utilisateurs de se connecter à l'application de pharmacie en vérifiant leurs informations d'identification contre une base de données MySQL. 
  
 3.	Interface Medicament : 
-![alt text](Capteurs/image24.jpg) 
+                            ![alt text](Capteurs/image24.jpg) 
  
  
                      L'interface graphique médicament permet aux utilisateurs de gérer les médicaments d'une pharmacie en offrant des fonctionnalités pour ajouter, modifier et supprimer des médicaments dans la base de données. Cette interface utilise une connexion à une base de données MySQL pour stocker et récupérer les informations sur les médicaments. Elle permet aux utilisateurs de voir tous les médicaments enregistrés dans la base de données via une table, de remplir des formulaires pour ajouter de nouveaux médicaments ou modifier des médicaments existants, et de supprimer des médicaments en utilisant l'ID unique associé à chaque médicament. Les dates de fabrication et d'expiration sont également gérées, assurant ainsi que les utilisateurs peuvent suivre la durée de vie des médicaments. En outre, la sélection de l'entreprise fournissant le médicament est facilité par un menu déroulant. Cette interface assure une gestion efficace et organisée des médicaments, contribuant à une meilleure administration des stocks dans la pharmacie. 
  
 4.	Interface Agent : 
-![alt text](Capteurs/image25.jpg)
+                                  ![alt text](Capteurs/image25.jpg)
  
  
 Cette interface est conçue pour aider les responsables de pharmacie à gérer leur personnel, en particulier les agents. Voici ce que vous pouvez faire avec cette interface : 
@@ -53,7 +53,8 @@ Cette interface est conçue pour aider les responsables de pharmacie à gérer l
 	En bref, cette interface facilite la gestion des ressources humaines de la pharmacie, en offrant un moyen simple et efficace d'ajouter, de modifier et de supprimer les détails des agents. 
  
 5.	Interface Vente : 
-![alt text](Capteurs/image26.jpg)
+
+                          ![alt text](Capteurs/image26.jpg)
  
   
 Cette interface Java Swing, nommée "Vente", est conçue pour faciliter la gestion des ventes de médicaments dans une pharmacie. Son objectif principal est de fournir aux utilisateurs une plateforme conviviale pour effectuer des transactions de vente de manière efficace et précise. 
@@ -65,7 +66,7 @@ Voici quelques points clés sur le but principal de cette interface en quelques 
 	Interface Intuitive : L'interface est conçue de manière à être conviviale et facile à utiliser, permettant aux utilisateurs de naviguer sans effort et de réaliser des ventes rapidement. 
 6.	Interface Enterprise : 
   
-  ![alt text](Capteurs/image27.jpg)
+                                       ![alt text](Capteurs/image27.jpg)
   
   Dans cette interface entreprise, l'admin doit gérer les entreprises qui vont livrer leurs produits à notre pharmacie. L'admin doit pouvoir ajouter, modifier ou supprimer une entreprise. Pour ajouter une entreprise, il faut saisir toutes les informations de cette entreprise et cliquer sur le bouton "Ajouter". Après avoir cliqué sur "Ajouter", l'entreprise doit être insérée dans la base de données et affichée dans le tableau des entreprises dans cette interface. Pour modifier les informations d'une entreprise, on doit entrer l'ID et les informations à modifier, puis cliquer sur "Modifier". Cela mettra à jour la base de données et affichera les modifications dans ce tableau. Pour supprimer une entreprise, il suffit de saisir l'ID de l'entreprise et de cliquer sur "Supprimer". L'entreprise sera alors supprimée de la base de données et le tableau restant sera affiché dans cette interface. 
 
