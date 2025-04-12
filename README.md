@@ -53,7 +53,7 @@ Cette interface est conçue pour aider les responsables de pharmacie à gérer l
 	En bref, cette interface facilite la gestion des ressources humaines de la pharmacie, en offrant un moyen simple et efficace d'ajouter, de modifier et de supprimer les détails des agents. 
  
 5.	Interface Vente : 
-  ![alt text](Capteurs/image26.jpg)
+![alt text](Capteurs/image26.jpg)
  
   
 Cette interface Java Swing, nommée "Vente", est conçue pour faciliter la gestion des ventes de médicaments dans une pharmacie. Son objectif principal est de fournir aux utilisateurs une plateforme conviviale pour effectuer des transactions de vente de manière efficace et précise. 
@@ -65,7 +65,7 @@ Voici quelques points clés sur le but principal de cette interface en quelques 
 	Interface Intuitive : L'interface est conçue de manière à être conviviale et facile à utiliser, permettant aux utilisateurs de naviguer sans effort et de réaliser des ventes rapidement. 
 6.	Interface Enterprise : 
   
-   ![alt text](Capteurs/image27.jpg)
+  ![alt text](Capteurs/image27.jpg)
   
   Dans cette interface entreprise, l'admin doit gérer les entreprises qui vont livrer leurs produits à notre pharmacie. L'admin doit pouvoir ajouter, modifier ou supprimer une entreprise. Pour ajouter une entreprise, il faut saisir toutes les informations de cette entreprise et cliquer sur le bouton "Ajouter". Après avoir cliqué sur "Ajouter", l'entreprise doit être insérée dans la base de données et affichée dans le tableau des entreprises dans cette interface. Pour modifier les informations d'une entreprise, on doit entrer l'ID et les informations à modifier, puis cliquer sur "Modifier". Cela mettra à jour la base de données et affichera les modifications dans ce tableau. Pour supprimer une entreprise, il suffit de saisir l'ID de l'entreprise et de cliquer sur "Supprimer". L'entreprise sera alors supprimée de la base de données et le tableau restant sera affiché dans cette interface. 
 
