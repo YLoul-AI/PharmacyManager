@@ -124,11 +124,13 @@ cd pharmacie-java
 ---
 
 ## 👨‍💻 Auteur
+**Youssef Loul**
 
-**Youssef Loul**  
-📧 youssef.loul.ai@gmail.com  
-🎓 Étudiant en Master en Systèmes Intelligents et Ingénierie  
-🛠️ Compétences : Java · SQL · HTML · CSS · JS · PHP · Python
+- 📧 Email : [youssef.loul.ai@gmail.com](mailto:youssef.loul.ai@gmail.com)
+- 🎓 Étudiant en Master en Systèmes Intelligents et Ingénierie
+- 🛠️ Compétences : Java · SQL · HTML · CSS · JavaScript · PHP · Python
+- 🔗 LinkedIn : [loul-youssef-21777819a](https://www.linkedin.com/in/loul-youssef-21777819a/)
+
 
 ---
 
